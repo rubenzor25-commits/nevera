@@ -1,6 +1,6 @@
 # Mi nevera
 
-Inventario de la nevera generado a partir de un vídeo, con propuestas de comidas
+Inventario de casa (nevera, congelador y despensa) generado a partir de vídeos, con propuestas de comidas
 para ~2.000 kcal/día. Es un único archivo HTML sin dependencias: ábrelo en
 https://rubenzor25-commits.github.io/nevera/
 
